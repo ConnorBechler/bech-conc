@@ -2,6 +2,8 @@
 This module implements a command line interface for the corpus module, 
 using the colorama module to print results in c o l o r
 
+TODO: Fix collocation coloring, which is currently a mess
+
 @author: Connor Bechler
 @date: Spring, 2020
 """
